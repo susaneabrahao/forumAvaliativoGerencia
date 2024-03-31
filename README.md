@@ -2,7 +2,7 @@
 ## Introdução ao Git para Gerência de Configuração de Software
 Instalar o git na máquina local.
 Criar um usuário git.
-Criar uma conta no GitHub.
+Criar uma conta no GITHUB.
 Criar um respositório no gitHub.
 Através do git clonar o respositório criado no github na máquina local.
 Criar um arquivo REDAME.md descrevendo o projeto. 
